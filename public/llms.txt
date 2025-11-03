@@ -1,0 +1,6 @@
+## Pages
+- [Admin Login - D K Associates](/adminlogin): Secure admin login portal
+- [Careers - Join D K Associates](/hiring): Explore career opportunities at D K Associates. Join our team of professionals.
+- [D K Associates - Workforce for Everyday Help](/landing): Your trusted partner for professional workforce services including cleaning, repairs, teaching, and more.
+- [Login - D K Associates](/login): Login to your D K Associates account
+- [Our Services - D K Associates](/services): Explore our comprehensive range of professional services including cleaning, repairs, teaching, and more.
